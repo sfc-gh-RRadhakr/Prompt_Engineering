@@ -12,8 +12,9 @@ Before you begin, ensure you have Python installed on your system. You will also
 Install the openai package and python-dotenv for environment variable management.
 
 ```bash
-Copy code
 pip install openai python-dotenv
+or
+conda install -c conda-forge openai
 ```
 
 ## Set Up Your OpenAI API Key
